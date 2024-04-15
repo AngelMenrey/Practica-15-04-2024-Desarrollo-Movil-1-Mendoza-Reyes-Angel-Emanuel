@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tienda departamental</string>
+    <string name="codigo">Codigo de producto</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="chica">Talla Chica</string>
+    <string name="mediana">Talla Mediana</string>
+    <string name="grande">Talla Grande</string>
+    <string name="costo">Costo unitario</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="agregar">Agregar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="mostrat">Mostrar</string>
+    <string name="regresar">Regresar</string>
+    <string name="datos">informacion registrada</string>
+
+    <string-array name="listaMarcas">
+        <item>Patito 1</item>
+        <item>Patito 2</item>
+        <item>Patito 3</item>
+        <item>Patito 4</item>
+        <item>Patito 5</item>
+    </string-array>
+
+</resources>
